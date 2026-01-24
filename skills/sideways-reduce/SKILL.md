@@ -1,7 +1,7 @@
 ---
 name: sideways-reduce
 description: Reduce strategies - simplify, subtract, remove, clarify, focus on essentials. Use directly or via /sideways.
-version: 1.0.7
+version: 1.0.9
 ---
 
 # Sideways: Reduce
