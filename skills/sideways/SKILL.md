@@ -1,7 +1,7 @@
 ---
 name: sideways
 description: Creative strategies and lateral thinking prompts for breaking through mental blocks. Use when stuck, overwhelmed, need fresh perspective, or when the user says "use sideways".
-version: 1.0.18
+version: 1.0.19
 ---
 
 # Sideways: Creative Strategy Prompts
@@ -12,10 +12,17 @@ Select the best category for the user's situation, then pick ONE random strategy
 
 1. Analyze the user's situation to determine which category fits best
 2. Pick ONE strategy at RANDOM from that category - do NOT choose the "best fit"
-3. Present the strategy card: 🎴 Strategy: "[strategy text]"
-4. Generate 5 highly personalized follow-up questions based on the user's specific situation
-   - Reference concrete details from their context (technologies, constraints, concerns)
-   - Make each question actionable and directly relevant to what they're working on
+3. Present the strategy card with visual emphasis:
+
+        🎴 Strategy:
+        "[strategy text]"
+
+4. Follow with "Here are some questions that this invites:" then 3-5 questions
+5. Format each question as:
+   - The question itself on its own line (bold or standalone)
+   - Elaboration indented below, connecting to user's specific context
+   - Blank line between questions (no numbered list)
+6. Reference concrete details from their situation (technologies, constraints, concerns)
 
 ## Categories
 
