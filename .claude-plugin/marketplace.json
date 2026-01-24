@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "Sideways",
+  "name": "sideways-strategies",
   "description": "Unexpected questions and lateral thinking prompts to break through creative blocks and shift perspective",
   "owner": {
     "name": "Ari Bader-Natal"

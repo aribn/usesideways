@@ -1,7 +1,7 @@
 ---
 name: sideways-embody
 description: Embody strategies - physical, sensory, body-based approaches to creative problems. Use directly or via /sideways.
-version: 1.0.13
+version: 1.0.14
 ---
 
 # Sideways: Embody
