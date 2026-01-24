@@ -1,7 +1,7 @@
 ---
 name: sideways-pause
 description: Pause strategies - rest, reflect, step back, examine, take breaks. Use directly or via /sideways.
-version: 1.0.9
+version: 1.0.10
 ---
 
 # Sideways: Pause

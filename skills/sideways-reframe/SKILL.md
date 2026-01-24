@@ -1,7 +1,7 @@
 ---
 name: sideways-reframe
 description: Reframe strategies - change your perspective, reverse assumptions, adopt alternative viewpoints. Use directly or via /sideways.
-version: 1.0.9
+version: 1.0.10
 ---
 
 # Sideways: Reframe
