@@ -11,7 +11,7 @@ Sideways delivers unexpected questions and lateral thinking prompts to break thr
 ### Claude Code
 ```
 /plugin marketplace add aribn/usesideways
-/plugin install sideways@aribn-usesideways
+/plugin install sideways
 ```
 
 ### Cross-platform tools
@@ -34,14 +34,14 @@ Configure `https://usesideways.com/sse` in your MCP settings.
 
 ## Usage
 
-Say "use sideways" or invoke directly:
-- `/sideways` - Analyzes your situation and picks the best category
-- `/sideways-reframe` - Change perspective, reverse assumptions
-- `/sideways-reduce` - Simplify, subtract, focus on essentials
-- `/sideways-expand` - Add more, embrace abundance, do both
-- `/sideways-disrupt` - Break patterns, embrace chaos
-- `/sideways-embody` - Physical, sensory approaches
-- `/sideways-pause` - Rest, reflect, step back
+Say "use sideways" in your prompt. The skill analyzes your situation and selects the best strategy from six categories:
+
+- **Reframe** - Change perspective, reverse assumptions
+- **Reduce** - Simplify, subtract, focus on essentials
+- **Expand** - Add more, embrace abundance, do both
+- **Disrupt** - Break patterns, embrace chaos
+- **Embody** - Physical, sensory approaches
+- **Pause** - Rest, reflect, step back
 
 ## Learn More
 

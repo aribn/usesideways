@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "sideways-strategies",
+  "name": "sideways",
   "description": "Unexpected questions and lateral thinking prompts to break through creative blocks and shift perspective",
   "owner": {
     "name": "Ari Bader-Natal"
@@ -10,43 +10,10 @@
       "name": "sideways",
       "description": "Unexpected questions and lateral thinking prompts to break through creative blocks and shift perspective",
       "homepage": "https://usesideways.com",
-      "source": "./skills/sideways"
-    },
-    {
-      "name": "sideways-reframe",
-      "description": "Reframe strategies - change perspective, reverse assumptions, look from new angles",
-      "homepage": "https://usesideways.com",
-      "source": "./skills/sideways-reframe"
-    },
-    {
-      "name": "sideways-reduce",
-      "description": "Reduce strategies - simplify, subtract, focus on essentials",
-      "homepage": "https://usesideways.com",
-      "source": "./skills/sideways-reduce"
-    },
-    {
-      "name": "sideways-expand",
-      "description": "Expand strategies - add more, embrace abundance, do both",
-      "homepage": "https://usesideways.com",
-      "source": "./skills/sideways-expand"
-    },
-    {
-      "name": "sideways-disrupt",
-      "description": "Disrupt strategies - break patterns, embrace chaos, challenge conventions",
-      "homepage": "https://usesideways.com",
-      "source": "./skills/sideways-disrupt"
-    },
-    {
-      "name": "sideways-embody",
-      "description": "Embody strategies - physical and sensory approaches to problem-solving",
-      "homepage": "https://usesideways.com",
-      "source": "./skills/sideways-embody"
-    },
-    {
-      "name": "sideways-pause",
-      "description": "Pause strategies - rest, reflect, step back for clarity",
-      "homepage": "https://usesideways.com",
-      "source": "./skills/sideways-pause"
+      "source": "./",
+      "skills": [
+        "./skills/sideways"
+      ]
     }
   ]
 }
