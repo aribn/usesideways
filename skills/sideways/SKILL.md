@@ -1,7 +1,7 @@
 ---
 name: sideways
 description: Creative strategies and lateral thinking prompts for breaking through mental blocks. Use when stuck, overwhelmed, need fresh perspective, or when the user says "use sideways".
-version: 1.0.19
+version: 1.0.20
 ---
 
 # Sideways: Creative Strategy Prompts

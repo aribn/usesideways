@@ -11,7 +11,7 @@ Sideways delivers unexpected questions and lateral thinking prompts to break thr
 ### Claude Code
 ```
 /plugin marketplace add aribn/usesideways
-/plugin install sideways
+/plugin install sideways@aribn-usesideways
 ```
 
 ### Cross-platform tools
