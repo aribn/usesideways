@@ -1,7 +1,7 @@
 ---
 name: sideways-expand
 description: Expand strategies - add more, elaborate, embrace abundance, do both. Use directly or via /sideways.
-version: 1.0.14
+version: 1.0.15
 ---
 
 # Sideways: Expand
