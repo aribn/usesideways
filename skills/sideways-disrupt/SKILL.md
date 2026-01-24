@@ -1,7 +1,7 @@
 ---
 name: sideways-disrupt
 description: Disrupt strategies - break patterns, embrace chaos, make destructive moves, honor mistakes. Use directly or via /sideways.
-version: 1.0.10
+version: 1.0.11
 ---
 
 # Sideways: Disrupt

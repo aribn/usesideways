@@ -1,11 +1,15 @@
-# Sideways Skills
+# Sideways
 
-Creative strategies and lateral thinking prompts for AI agents.
+**[→ usesideways.com](https://usesideways.com)**
+
+Shift perspective. Unlock creativity.
+
+Sideways delivers unexpected questions and lateral thinking prompts to break through creative blocks.
 
 ## Installation
 
 ### Claude Code
-```bash
+```
 /plugin marketplace add aribn/usesideways
 /plugin install sideways@aribn-usesideways
 ```
