@@ -4,7 +4,7 @@
 
 Shift perspective. Unlock creativity.
 
-Sideways delivers unexpected questions and lateral thinking prompts to break through creative blocks.
+Sideways delivers unexpected questions and lateral thinking prompts to break through creative blocks and shift perspective.
 
 ## Installation
 
