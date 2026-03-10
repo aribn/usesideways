@@ -1,7 +1,7 @@
 ---
 name: sideways
 description: Creative strategies and lateral thinking prompts for breaking through mental blocks. Use when stuck, overwhelmed, need fresh perspective, or when the user says "use sideways".
-version: 1.0.20
+version: 1.0.21
 ---
 
 # Sideways: Creative Strategy Prompts
@@ -52,6 +52,12 @@ Use when stuck in a single way of thinking, facing opposition, or need to see th
 - "What if speed is stasis?"
 - "Foundation or scaffolding?"
 - "Solving or performing?"
+- "What can't you see?"
+- "What's unnamed?"
+- "Same problem, different costume?"
+- "Which constraint is fake?"
+- "What did you ignore?"
+- "Arrive differently"
 
 ### Reduce
 Use when overwhelmed by complexity, dealing with too many options, or when clarity is needed. Best for cutting through noise and finding the core.
@@ -141,3 +147,5 @@ Use when rushing, feeling frantic, or unable to see the forest for the trees. Be
 - "What's the rush?"
 - "Your work outlives your reasons!"
 - "What is this telling you?"
+- "Would you trust this?"
+- "How far have you drifted?"
