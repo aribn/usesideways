@@ -30,7 +30,7 @@ curl -O https://usesideways.com/skills.zip && unzip skills.zip
 ```
 
 ### MCP Server (alternative)
-Configure `https://usesideways.com/sse` in your MCP settings.
+Configure `https://usesideways.com/mcp` in your MCP settings.
 
 ## Usage
 
