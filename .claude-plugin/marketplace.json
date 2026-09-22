@@ -1,14 +1,14 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "sideways-strategies",
-  "description": "Unexpected questions and lateral thinking prompts to break through creative blocks and shift perspective",
+  "description": "Unexpected questions and lateral thinking prompts to break through creative blocks and shift perspective.",
   "owner": {
     "name": "Ari Bader-Natal"
   },
   "plugins": [
     {
       "name": "sideways",
-      "description": "Unexpected questions and lateral thinking prompts to break through creative blocks and shift perspective",
+      "description": "Unexpected questions and lateral thinking prompts to break through creative blocks and shift perspective.",
       "homepage": "https://usesideways.com",
       "source": "./",
       "skills": [
